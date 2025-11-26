@@ -1,40 +1,36 @@
-# Calculator with Dark/Light Theme
+# Simple Calculator with Dark/Light Theme
 
-A clean, fully functional calculator built with **HTML**, **CSS**, and **JavaScript**. Features a smooth **dark/light theme toggle** with persistent preference.
+A clean, fully functional calculator built with **HTML**, **CSS**, and **JavaScript**. Features a beautiful toggleable  **dark and light mode** with smooth animations and a responsive design.
 
-![Light Mode](preview-light.png)  
-![Dark Mode](preview-dark.png)
+![Calculator Preview](preview-light.png)
+![Calculator Preview](preview-dark.png)
 
-## Live Demo
-
-[Click here to use the calculator →](https://mohamedilham914.github.io/calculator/)
 
 ## Features
 
-- Basic operations: `+`, `−`, `×`, `÷`
-- Clear (C), decimal point, and double-zero (00)
-- Real-time calculation
-- Dark/Light theme toggle (saved in browser)
-- Fully interactive buttons with hover effects
-- Mobile-friendly & responsive
-- Pure vanilla JS – no frameworks
+- Basic arithmetic operations: ` + `, ` - `, ` * `, ` ÷ `
+- - Clear (C) and decimal point support
+- Double zero (00) button
+- Real-time calculation display
+- Smooth **dark/light theme toggle** with persistent user preference
+- Fully interactive buttons with hover/press effects
+- Responsive and mobile-friendly design
+- Pure vanilla JavaScript — no frameworks!
+
+
+## Live Demo
+
+[Click here to try it live](https://your-username.github.io/calculator)  
+
 
 ## Tech Stack
 
-- HTML5 · CSS3 · Vanilla JavaScript
+- HTML5
+- CSS3 (Flexbox, transitions, custom themes)
+- Vanilla JavaScript
 
-## How to Run Locally
 
-Just open `index.html` in any browser!
+## Theme Toggle
 
-## Screenshots
-
-**Light Theme**  
-![Light](preview-light.png)
-
-**Dark Theme**  
-![Dark](preview-dark.png)
-
-Made with ❤️ by [mohamedilham914](https://github.com/mohamedilham914)
-
-⭐ Star this repo if you like it!
+Click the **sun ☀️** or **moon 🌙** icon in the top-right corner to switch between light and dark modes.
+Your preference is automatically saved using `localStorage`.
